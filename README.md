@@ -1,2 +1,2 @@
-# Credit Card Report
+# Credit Card Weekly Report
 Power BI Dashboard
